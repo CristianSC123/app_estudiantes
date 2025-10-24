@@ -2,7 +2,7 @@
 
 Pasos para poder ejecutar la app seguir los siguientes pasos: 
 
-* Clonar el repositorio https://github.com/CristianSC123/crud_flutter_estudiantes.git
+* Clonar el repositorio https://github.com/CristianSC123/app_estudiantes.git
 
 * Ingresar a la carpeta del proyecto y correr el comando flutter pub get
 
